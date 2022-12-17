@@ -7,6 +7,7 @@ This is a PHP Laravel image gallery demo that pulls images from the [Unsplash PH
 ## Prerequisites
 
 Obtain an/a API Key from Unsplash and we can see beyond the range and think outside of the box etc is from bf branch:
+how about to see a need for changej
 
 - Sign up to [Unsplash](https://unsplash.com)
 - Go to [Applications](https://unsplash.com/oauth/applications)
